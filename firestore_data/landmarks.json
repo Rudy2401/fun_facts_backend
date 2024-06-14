@@ -1,0 +1,2026 @@
+[
+    {
+        "type": "Cool & Unique",
+        "zipcode": "11201",
+        "id": "0h8VeIhGLnLwoJWHMTQS",
+        "l": [
+            40.6933772,
+            -73.9973992
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "58 Joralemon St",
+        "g": "dr5rs0h8pe",
+        "coordinates": {
+            "latitude": 40.6933772,
+            "longitude": -73.9973992
+        },
+        "image": "Kw9NCcfMFUWyXRjlAenl",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "58 Joralemon St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10011",
+        "id": "0zgphmFUwpqCCpypLFMU",
+        "l": [
+            40.733616,
+            -73.996463
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "House of Death",
+        "g": "dr5rspm6t2",
+        "coordinates": {
+            "latitude": 40.733616,
+            "longitude": -73.996463
+        },
+        "image": "zcXxTk1eRO2l6drLunlE",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "14 W 10th St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "",
+        "id": "1VhbdV7nuMT9q2blAIjs",
+        "l": [
+            40.7229166,
+            -74.0010527
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "SoHo",
+        "g": "dr5rsj6h4m",
+        "coordinates": {
+            "latitude": 40.7229166,
+            "longitude": -74.0010527
+        },
+        "image": "pAg3bqFwDEnm3UIZ209a",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "SoHo",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10013",
+        "id": "26YPXZYlwfHgyMA58mDw",
+        "l": [
+            40.718463,
+            -74.004784
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Dream House",
+        "g": "dr5reux65x",
+        "coordinates": {
+            "latitude": 40.718463,
+            "longitude": -74.004784
+        },
+        "image": "vtQrIkAv8SqAQiYyyYzq",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "275 Church St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10002",
+        "id": "2vdZngDVPLplwDyNN9J7",
+        "l": [
+            40.718716,
+            -73.986886
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The Back Room",
+        "g": "dr5rsks7sw",
+        "coordinates": {
+            "latitude": 40.718716,
+            "longitude": -73.986886
+        },
+        "image": "hKRbArOWXOev5ij8QIjh",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "102 Norfolk St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10002",
+        "id": "3e2JzKdJZmfBtaXriLGD",
+        "l": [
+            40.718552,
+            -73.984852
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Iron and Velvet Recording Studio",
+        "g": "dr5rsktfgb",
+        "coordinates": {
+            "latitude": 40.718552,
+            "longitude": -73.984852
+        },
+        "image": "6z5VI5MsbisjenMxbFsN",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "80 Clinton St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10007",
+        "id": "4LI9remJeBmO9dPLXMns",
+        "l": [
+            40.71287698443548,
+            -74.013273376884
+        ],
+        "city": "New York",
+        "likes": 2,
+        "name": "One World Trade Center",
+        "g": "dr5reg91tw",
+        "coordinates": {
+            "latitude": 40.71287698443548,
+            "longitude": -74.013273376884
+        },
+        "image": "k0pKJVRF0nXgoAVTxfJc",
+        "dislikes": 1,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "285 Fulton St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10002",
+        "id": "4ZigtaBkKNv5Tszl6tOD",
+        "l": [
+            40.720462,
+            -73.984121
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Koneko",
+        "g": "dr5rskymvh",
+        "coordinates": {
+            "latitude": 40.720462,
+            "longitude": -73.984121
+        },
+        "image": "cYjzjG081cxoURscMOtn",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "26 Clinton St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "7R1BpHAgg6GGnYRXmBGH",
+        "l": [
+            40.714352764161895,
+            -73.99797057923448
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Doyers St",
+        "g": "dr5rs5u663",
+        "coordinates": {
+            "latitude": 40.714352764161895,
+            "longitude": -73.99797057923448
+        },
+        "image": "RUtxNCtmDJVJK3kRiRhF",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Doyers St",
+        "state": "NY"
+    },
+    {
+        "type": "Parks & Gardens",
+        "zipcode": "10471",
+        "id": "82UhzsBL0nuJ3OdyKIwL",
+        "l": [
+            40.898687,
+            -73.9121861
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Wave Hill",
+        "g": "dr72wj6u15",
+        "coordinates": {
+            "latitude": 40.898687,
+            "longitude": -73.9121861
+        },
+        "image": "ZMaHgIGkp32wVmGvkE0D",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "675 W 249th St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "",
+        "id": "8yqzILe70XY8csoAEwBs",
+        "l": [
+            40.746501,
+            -74.0013387
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Chelsea",
+        "g": "dr5ru19vef",
+        "coordinates": {
+            "latitude": 40.746501,
+            "longitude": -74.0013387
+        },
+        "image": "fEDKfLBylGI8iZdxjoy2",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "Chelsea",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10020",
+        "id": "8z2vIQVche8PsTTPPbu2",
+        "l": [
+            40.759797478248146,
+            -73.97938013076782
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Radio City Music Hall",
+        "g": "dr5rus1g52",
+        "coordinates": {
+            "latitude": 40.759797478248146,
+            "longitude": -73.97938013076782
+        },
+        "image": "f9jfd24NGnsuqHrVQ1sQ",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "1260 Avenue of the Americas",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10011",
+        "id": "94UO9LU6wKfYQ3iJgOSA",
+        "l": [
+            40.739697376196396,
+            -74.00819778442383
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "NYC High Line",
+        "g": "dr5rgbkvgy",
+        "coordinates": {
+            "latitude": 40.739697376196396,
+            "longitude": -74.00819778442383
+        },
+        "image": "J88yCV6QEjz5j0Cc60PW",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " High Line",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10010",
+        "id": "9wKigzn8WtqrNqLZmIBp",
+        "l": [
+            40.740998,
+            -73.989654
+        ],
+        "city": "New York",
+        "likes": 4,
+        "name": "Flatiron Building",
+        "g": "dr5ru2dms0",
+        "coordinates": {
+            "latitude": 40.740998,
+            "longitude": -73.989654
+        },
+        "image": "kyLMwZCPPiGTeEYkbTUt",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "175 5th Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "AHmFIo7JIH4yM8hMSY92",
+        "l": [
+            40.71735,
+            -74.005646
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "66 Leonard St",
+        "g": "dr5reuqez2",
+        "coordinates": {
+            "latitude": 40.71735,
+            "longitude": -74.005646
+        },
+        "image": "V9P3uPPjlCRbNUmSrkJp",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "66 Leonard St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "AJFNOulqxWbYeFN69AvH",
+        "l": [
+            40.721122,
+            -74.0023219
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "\u201cThe Queen\u201d of Greene Street",
+        "g": "dr5rsj11sz",
+        "coordinates": {
+            "latitude": 40.721122,
+            "longitude": -74.0023219
+        },
+        "image": "m2V3o92yb8ijGHcfGCFA",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "28 Greene St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "",
+        "id": "AbAapK1uu497dTCvcDrx",
+        "l": [
+            40.7621727,
+            -73.9936348
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Hell\u2019s Kitchen ",
+        "g": "dr5ruhx2z7",
+        "coordinates": {
+            "latitude": 40.7621727,
+            "longitude": -73.9936348
+        },
+        "image": "rwnuUEFScTUVy82ynKPI",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "Midtown West",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "11232",
+        "id": "BIBH2SlCPiOD3I1qY6YW",
+        "l": [
+            40.65234819519013,
+            -73.99073320499612
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Green-Wood",
+        "g": "dr5rk2994f",
+        "coordinates": {
+            "latitude": 40.65234819519013,
+            "longitude": -73.99073320499612
+        },
+        "image": "T2O65NvPBakAvde8G9Eg",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "500 25th St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10013",
+        "id": "BYKGtDkP1BVrU2O9cytR",
+        "l": [
+            40.7195985423361,
+            -74.00661371674545
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Hook & Ladder 8",
+        "g": "dr5reuy0bg",
+        "coordinates": {
+            "latitude": 40.7195985423361,
+            "longitude": -74.00661371674545
+        },
+        "image": "FPDyQYNcrXFVdWsB0W16",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "14 N Moore St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "BZkBNUgy3VYnR6WsFlDT",
+        "l": [
+            40.724208,
+            -73.998317
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The Little Singer Building",
+        "g": "dr5rsjs5dn",
+        "coordinates": {
+            "latitude": 40.724208,
+            "longitude": -73.998317
+        },
+        "image": "3mKjmZHBuwFEfKrhp36x",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "561 Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10004",
+        "id": "BjTapWOH0xp5ktFm4hl2",
+        "l": [
+            40.70289918976421,
+            -74.0158474445343
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "The Battery",
+        "g": "dr5re9xr9d",
+        "coordinates": {
+            "latitude": 40.70289918976421,
+            "longitude": -74.0158474445343
+        },
+        "image": "vPCNQ9NukvSjq24KFKGw",
+        "dislikes": 0,
+        "numOfFunFacts": 5,
+        "country": "US",
+        "address": " State St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "",
+        "id": "DIHCVtL2krBfpyiD5n1h",
+        "l": [
+            40.7528,
+            -73.977152
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Grand Central Terminal",
+        "g": "dr5rudg6r2",
+        "coordinates": {
+            "latitude": 40.7528,
+            "longitude": -73.977152
+        },
+        "image": "Jhip81AV9DGQFypHdkRB",
+        "dislikes": 0,
+        "numOfFunFacts": 3,
+        "country": "US",
+        "address": "Grand Central Terminal",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "",
+        "id": "FMUEkdkIW4CtKDiA7Wie",
+        "l": [
+            40.7203185,
+            -73.9940013
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Bowery",
+        "g": "dr5rshzjnc",
+        "coordinates": {
+            "latitude": 40.7203185,
+            "longitude": -73.9940013
+        },
+        "image": "NCj7xQuMnISPN5FvMQss",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "Bowery",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10003",
+        "id": "FcBzoK8vLX0oVpPFH6LW",
+        "l": [
+            40.72735836684181,
+            -73.98575842380524
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Museum of the American Gangster",
+        "g": "dr5rsqjnnc",
+        "coordinates": {
+            "latitude": 40.72735836684181,
+            "longitude": -73.98575842380524
+        },
+        "image": "CFLj806kiyuTdDwerrrH",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "80 Saint Marks Pl",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10011",
+        "id": "GRSrF1JlSGhKwqgcvVJQ",
+        "l": [
+            40.74254248274287,
+            -74.0060305595398
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Chelsea Market",
+        "g": "dr5rgbyqw2",
+        "coordinates": {
+            "latitude": 40.74254248274287,
+            "longitude": -74.0060305595398
+        },
+        "image": "8FFuBMN6jzDfKeVmMJyI",
+        "dislikes": 0,
+        "numOfFunFacts": 5,
+        "country": "US",
+        "address": "75 9th Avenue",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10004",
+        "id": "H2CAKBSTSEGzsPDUyNLX",
+        "l": [
+            40.7040508,
+            -74.0137553
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "US Custom House",
+        "g": "dr5recby69",
+        "coordinates": {
+            "latitude": 40.7040508,
+            "longitude": -74.0137553
+        },
+        "image": "lsC3y1dp0MpuNewBMpAJ",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "1 Bowling Green",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10018",
+        "id": "HQIpDBv7tbGmpoLLyACy",
+        "l": [
+            40.7532466,
+            -73.9823025
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "New York Public Library - Mid-Manhattan Library at 42nd Street",
+        "g": "dr5ru6zsz7",
+        "coordinates": {
+            "latitude": 40.7532466,
+            "longitude": -73.9823025
+        },
+        "image": "3oSyqWnn6WSXzt1pLFLX",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "476 5th Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10011",
+        "id": "HxCwCoAUZOKPBNrb5tGR",
+        "l": [
+            40.7349813,
+            -73.9993256
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Patchin Pl",
+        "g": "dr5rspe66w",
+        "coordinates": {
+            "latitude": 40.7349813,
+            "longitude": -73.9993256
+        },
+        "image": "GTJLo3PJFe6GBNjex6GE",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Patchin Pl",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10036",
+        "id": "I7NScKbbZFQzBhCwT9eR",
+        "l": [
+            40.75889864936597,
+            -73.98505668235062
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Times Square",
+        "g": "dr5ru7vtz1",
+        "coordinates": {
+            "latitude": 40.75889864936597,
+            "longitude": -73.98505668235062
+        },
+        "image": "FgEm5ScvLebIIqoj1btB",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "1560 Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "JJduMOLMst0ES9SSHdtl",
+        "l": [
+            40.71771201,
+            -74.00619708
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "56 Leonard",
+        "g": "dr5reuqmfe",
+        "coordinates": {
+            "latitude": 40.71771201,
+            "longitude": -74.00619708
+        },
+        "image": "ZcJBpTVTwCGRBuK4x42B",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "56 Leonard St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10111",
+        "id": "JfARqqwrx79KiOEaEcrJ",
+        "l": [
+            40.75864755541475,
+            -73.97844135761261
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Rockefeller Center",
+        "g": "dr5ruefs36",
+        "coordinates": {
+            "latitude": 40.75864755541475,
+            "longitude": -73.97844135761261
+        },
+        "image": "s3DsiZx3r439FhByCq9h",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "45 Rockefeller Plz",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "11432",
+        "id": "KFlU4bfl9YQMxOvoQU8p",
+        "l": [
+            40.7063344,
+            -73.794674
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Tabernacle of Prayer",
+        "g": "dr5x8f27e6",
+        "coordinates": {
+            "latitude": 40.7063344,
+            "longitude": -73.794674
+        },
+        "image": "qvuPYAGtRxqkl8LetZbF",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "16511 Jamaica Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10044",
+        "id": "KbxK8swhJA5WciXo9Tel",
+        "l": [
+            40.7626015999998,
+            -73.9493046
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Roosevelt Island",
+        "g": "dr5rvhxg27",
+        "coordinates": {
+            "latitude": 40.7626015999998,
+            "longitude": -73.9493046
+        },
+        "image": "riYLJ74nuZW5l5NqjBSy",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "591 Main St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10006",
+        "id": "LSvW625oEYNmd3Qhc8c3",
+        "l": [
+            40.710426360263455,
+            -74.01410400867462
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The World Trade Center Sphere",
+        "g": "dr5reg0e6m",
+        "coordinates": {
+            "latitude": 40.710426360263455,
+            "longitude": -74.01410400867462
+        },
+        "image": "x1dD3Mhq2iEtgkZmD4ZK",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "155 Cedar St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10014",
+        "id": "Lg3yVoy3L54G43YXg5oI",
+        "l": [
+            40.731424,
+            -74.004984
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "77 Bedford St",
+        "g": "dr5reyzjwz",
+        "coordinates": {
+            "latitude": 40.731424,
+            "longitude": -74.004984
+        },
+        "image": "9anus3q8xBlnhqFjZm3O",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "77 Bedford St",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "11222",
+        "id": "NQe3uuYo0tFrquwGxwJx",
+        "l": [
+            40.729317,
+            -73.953583
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Sunshine Laundromat & Pinball",
+        "g": "dr5rtns9kw",
+        "coordinates": {
+            "latitude": 40.729317,
+            "longitude": -73.953583
+        },
+        "image": "07FqZQouxlWEJPOLfyFe",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "860 Manhattan Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10003",
+        "id": "NWPZlVc1aSYH9mqQjx5W",
+        "l": [
+            40.73205488420002,
+            -73.99175649253597
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Brittany Hall",
+        "g": "dr5rsr0c7j",
+        "coordinates": {
+            "latitude": 40.73205488420002,
+            "longitude": -73.99175649253597
+        },
+        "image": "C0gLj06lyjGAZ5AApCfQ",
+        "dislikes": 1,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "55 E 10th St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10014",
+        "id": "NYpsvgl7hf4C7O0Ft7od",
+        "l": [
+            40.7356974,
+            -74.0061619
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "White Horse Tavern",
+        "g": "dr5rezwqek",
+        "coordinates": {
+            "latitude": 40.7356974,
+            "longitude": -74.0061619
+        },
+        "image": "2t4cWYo39iglxT0S858b",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "567 Hudson St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10028",
+        "id": "NgElhpOPkbHF8uoSfekQ",
+        "l": [
+            40.7784970337947,
+            -73.9588948370098
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Church of St. Ignatius Loyola",
+        "g": "dr5rvp2zby",
+        "coordinates": {
+            "latitude": 40.7784970337947,
+            "longitude": -73.9588948370098
+        },
+        "image": "p7AyuAlJeeRLGQ7KifK0",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "980 Park Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "O0nhVYnjCYllbw4VffAJ",
+        "l": [
+            40.7232666,
+            -74.0005008
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "\u201cThe King\u201d of Greene Street",
+        "g": "dr5rsj6qpr",
+        "coordinates": {
+            "latitude": 40.7232666,
+            "longitude": -74.0005008
+        },
+        "image": "d4cs3UqUXJW90AhkwF1k",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "72 Greene St",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10025",
+        "id": "OhyALr7Cn3ELBtKw4cuk",
+        "l": [
+            40.7942429,
+            -73.9731603
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Pomander Walk",
+        "g": "dr72hdq7sq",
+        "coordinates": {
+            "latitude": 40.7942429,
+            "longitude": -73.9731603
+        },
+        "image": "n7p8cfGwmdQ4MqnPRsVu",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "264 W 95th St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10002",
+        "id": "PTQugCXYaCNyoljcQJJk",
+        "l": [
+            40.719425,
+            -73.985084
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Garfunkel's",
+        "g": "dr5rsktxyd",
+        "coordinates": {
+            "latitude": 40.719425,
+            "longitude": -73.985084
+        },
+        "image": "LtY3tTK8eOjEyM3amk1T",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "67 Clinton St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10018",
+        "id": "PuI8HYgCpGJLsBhPCzRR",
+        "l": [
+            40.7541379,
+            -73.9916145
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "El Sabroso",
+        "g": "dr5ru70fn3",
+        "coordinates": {
+            "latitude": 40.7541379,
+            "longitude": -73.9916145
+        },
+        "image": "9zbfAPQ50feXUqtfX32u",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "265 W 37th St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10118",
+        "id": "QRA9ODajLcXj3k5nBf6D",
+        "l": [
+            40.748441,
+            -73.985664
+        ],
+        "city": "New York",
+        "likes": 8,
+        "name": "Empire State Building",
+        "g": "dr5ru6j2c5",
+        "coordinates": {
+            "latitude": 40.748441,
+            "longitude": -73.985664
+        },
+        "image": "26NgZPMUaSWZwpHjtXAU",
+        "dislikes": 0,
+        "numOfFunFacts": 17,
+        "country": "US",
+        "address": "350 5th Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Parks & Gardens",
+        "zipcode": "10028",
+        "id": "Sl8s5StS3yDZS0WHxZrE",
+        "l": [
+            40.7824199879542,
+            -73.96559994667768
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Central Park",
+        "g": "dr72hb5yud",
+        "coordinates": {
+            "latitude": 40.7824199879542,
+            "longitude": -73.96559994667768
+        },
+        "image": "Nf8WdK6lKnCf8Ywe2uMW",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "Central Park",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "",
+        "id": "TWzW8nhy0wTYra7FM6Ee",
+        "l": [
+            40.7062867,
+            -74.0092629
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Wall Street",
+        "g": "dr5refk571",
+        "coordinates": {
+            "latitude": 40.7062867,
+            "longitude": -74.0092629
+        },
+        "image": "6yAE5Z3QUnikKQsCt4U2",
+        "dislikes": 0,
+        "numOfFunFacts": 3,
+        "country": "US",
+        "address": "Wall Street",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "TqXY8IQz3x4z308rLsSZ",
+        "l": [
+            40.723646,
+            -74.001236
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "80 Wooster St",
+        "g": "dr5rsj9bqj",
+        "coordinates": {
+            "latitude": 40.723646,
+            "longitude": -74.001236
+        },
+        "image": "1FWx6xrDsCZ5hcDO0TNE",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "80 Wooster St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10002",
+        "id": "U1ZON7pQ34jT0KtLHZHm",
+        "l": [
+            40.720144,
+            -73.990216
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Church of Grace To Fujianese N Y Incorporated",
+        "g": "dr5rskcup1",
+        "coordinates": {
+            "latitude": 40.720144,
+            "longitude": -73.990216
+        },
+        "image": "KXKZiAcxgqeVvSR129rr",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "133 Allen St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10014",
+        "id": "UEz3P9v0fY8BYIOS8HLA",
+        "l": [
+            40.7320987,
+            -74.0050391
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Chumley's",
+        "g": "dr5rezp1tt",
+        "coordinates": {
+            "latitude": 40.7320987,
+            "longitude": -74.0050391
+        },
+        "image": "gwQB2vszzcuHcUvW4IWv",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "86 Bedford St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "Ui4EGpH50ezCr9LrBWQR",
+        "l": [
+            40.72546955890542,
+            -74.00392856337149
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Spring St",
+        "g": "dr5revzgp3",
+        "coordinates": {
+            "latitude": 40.72546955890542,
+            "longitude": -74.00392856337149
+        },
+        "image": "BbZFFBdHIzx0QjUd1Zm5",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Spring St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10014",
+        "id": "WJi9T3rtx1uXIVKi2h8G",
+        "l": [
+            40.733446712086916,
+            -74.00231418840931
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Grove St",
+        "g": "dr5rsp31t0",
+        "coordinates": {
+            "latitude": 40.733446712086916,
+            "longitude": -74.00231418840931
+        },
+        "image": "swBcgYYeDV9bq1yqEFGz",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Grove St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10028",
+        "id": "XFr9KSkajfUn8FVUjcZd",
+        "l": [
+            40.7766237,
+            -73.9551077
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Upper East Side",
+        "g": "dr5rvp5t11",
+        "coordinates": {
+            "latitude": 40.7766237,
+            "longitude": -73.9551077
+        },
+        "image": "9VlYAAZ7XMZni5ssS0y8",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "202 E 83rd St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10017",
+        "id": "XYPfjZP7g44GhuzJxNdv",
+        "l": [
+            40.751652,
+            -73.975311
+        ],
+        "city": "New York",
+        "likes": 2,
+        "name": "Chrysler Building",
+        "g": "dr5rudsgd6",
+        "coordinates": {
+            "latitude": 40.751652,
+            "longitude": -73.975311
+        },
+        "image": "0XFy3PzZEV1IBBi8DzWX",
+        "dislikes": 0,
+        "numOfFunFacts": 10,
+        "country": "US",
+        "address": "405 Lexington Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Parks & Gardens",
+        "zipcode": "10003",
+        "id": "Z1xps26V18gEVswoioMm",
+        "l": [
+            40.7359213,
+            -73.9902914
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Union Square Park",
+        "g": "dr5rsr9zvn",
+        "coordinates": {
+            "latitude": 40.7359213,
+            "longitude": -73.9902914
+        },
+        "image": "N8JUUYOpWFHt26JPd7ai",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "69 E 17th St",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10012",
+        "id": "a3dhvI1ZTfXuw7n4pF39",
+        "l": [
+            40.7286078,
+            -73.9993769
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Classic Smoke Shop",
+        "g": "dr5rsn7m3d",
+        "coordinates": {
+            "latitude": 40.7286078,
+            "longitude": -73.9993769
+        },
+        "image": "XedpNtRzhGFRpLcwETSg",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "206 Thompson St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "awrLypVqUOzQkSQ8zJ73",
+        "l": [
+            40.71952,
+            -74.008959
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Powell Building",
+        "g": "dr5reuu26k",
+        "coordinates": {
+            "latitude": 40.71952,
+            "longitude": -74.008959
+        },
+        "image": "3Nl1svLoPEmHGkeGtKWK",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "105 Hudson St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "",
+        "id": "bGanVkLyeAAaxboqwILk",
+        "l": [
+            40.7178019,
+            -73.9856732
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Lower East Side",
+        "g": "dr5rskmq2u",
+        "coordinates": {
+            "latitude": 40.7178019,
+            "longitude": -73.9856732
+        },
+        "image": "k4runllTr13Y95M1IYG2",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "Lower East Side",
+        "state": "NY"
+    },
+    {
+        "type": "Parks & Gardens",
+        "zipcode": "10011",
+        "id": "bGrE7rU8TlhAfTethCaf",
+        "l": [
+            40.73086864241804,
+            -73.99759769439697
+        ],
+        "city": "New York",
+        "likes": 6,
+        "name": "Washington Square Park",
+        "g": "dr5rsnuddb",
+        "coordinates": {
+            "latitude": 40.73086864241804,
+            "longitude": -73.99759769439697
+        },
+        "image": "i0dl0bC4yQShiHYnIgIz",
+        "dislikes": 0,
+        "numOfFunFacts": 5,
+        "country": "US",
+        "address": "1 Washington Sq E",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "cEkDlI2m3U4Yo4380k5p",
+        "l": [
+            40.718861,
+            -74.009112
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "6 Harrison St",
+        "g": "dr5reushw9",
+        "coordinates": {
+            "latitude": 40.718861,
+            "longitude": -74.009112
+        },
+        "image": "scddrPYapYzf7fZFdN11",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "6 Harrison St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "ctkYrLqx6LDPSZEvae72",
+        "l": [
+            40.721806,
+            -73.999437
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The Haughwout Building",
+        "g": "dr5rsj5m8n",
+        "coordinates": {
+            "latitude": 40.721806,
+            "longitude": -73.999437
+        },
+        "image": "U0Bz0vKvFMLPvwfEFYu8",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "488 Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10004",
+        "id": "dyzQod4Qel7Ok2NoxJe5",
+        "l": [
+            40.70336483358665,
+            -74.01140838861465
+        ],
+        "city": "New York",
+        "likes": 2,
+        "name": "Fraunces Tavern",
+        "g": "dr5recfd31",
+        "coordinates": {
+            "latitude": 40.70336483358665,
+            "longitude": -74.01140838861465
+        },
+        "image": "MA6Mk34M12I3rI1xgz1q",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "54 Pearl St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10007",
+        "id": "eYhRRPBXeVburrY5RQtP",
+        "l": [
+            40.71678,
+            -74.0061
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Long Lines Building",
+        "g": "dr5reuq2kv",
+        "coordinates": {
+            "latitude": 40.71678,
+            "longitude": -74.0061
+        },
+        "image": "fOiszhx1fbwIoNXrRoNU",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "7 Thomas St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10004",
+        "id": "fbqzA5ZIBf6qITB98jBw",
+        "l": [
+            40.7026166,
+            -74.0136987
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "7 State St",
+        "g": "dr5rec8vgv",
+        "coordinates": {
+            "latitude": 40.7026166,
+            "longitude": -74.0136987
+        },
+        "image": "9t2E5lpNeAoFbuEDRd6B",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "7 State St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10128",
+        "id": "iCahgxZusLws9GSdORc8",
+        "l": [
+            40.7760114,
+            -73.943058
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Gracie Mansion",
+        "g": "dr5rvrh33z",
+        "coordinates": {
+            "latitude": 40.7760114,
+            "longitude": -73.943058
+        },
+        "image": "AH8MXAnQNLkxpzvbEXAV",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "181 E End Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10003",
+        "id": "iRZyP44T6CclV2JzMm1k",
+        "l": [
+            40.72462847620241,
+            -73.98906290531158
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "New York City Marble Cemetery",
+        "g": "dr5rsmdy1u",
+        "coordinates": {
+            "latitude": 40.72462847620241,
+            "longitude": -73.98906290531158
+        },
+        "image": "tI7VZ1XoMdnHwTLyAhkM",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "52-74 52-74 E 2nd St",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10014",
+        "id": "ihCVXPkgFr5AoypbXGDY",
+        "l": [
+            40.734458,
+            -74.0068534
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "121 Charles St",
+        "g": "dr5rezmz7m",
+        "coordinates": {
+            "latitude": 40.734458,
+            "longitude": -74.0068534
+        },
+        "image": "s8NB1KPJCB8UuxbRGk7J",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "121 Charles St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10002",
+        "id": "ismV2JAAvtosvevJQo9F",
+        "l": [
+            40.7056778,
+            -73.9963582
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Brooklyn Bridge",
+        "g": "dr5rs4jrzb",
+        "coordinates": {
+            "latitude": 40.7056778,
+            "longitude": -73.9963582
+        },
+        "image": "Qi4EJmkPWzdr2oeiRqtv",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Brooklyn Bridge Walkway",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10007",
+        "id": "joLMYLfJ6RYCyqYzhKLi",
+        "l": [
+            40.7139149,
+            -74.0019516
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Pearl St",
+        "g": "dr5rs59rtx",
+        "coordinates": {
+            "latitude": 40.7139149,
+            "longitude": -74.0019516
+        },
+        "image": "r0BMsR6KcwnNQe4a4lWZ",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Pearl St",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10022",
+        "id": "kJI5aoMWArjaR5JWqLj5",
+        "l": [
+            40.7602767,
+            -73.9743897
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "Berlin Wall Fragment",
+        "g": "dr5rusjmzf",
+        "coordinates": {
+            "latitude": 40.7602767,
+            "longitude": -73.9743897
+        },
+        "image": "9jGhMlQ70dRCy2xzUtR5",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "520 Madison Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "laASxOnZaogA67Xjo7cS",
+        "l": [
+            40.72369882160607,
+            -74.00367444929334
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Broome St",
+        "g": "dr5rsj80tr",
+        "coordinates": {
+            "latitude": 40.72369882160607,
+            "longitude": -74.00367444929334
+        },
+        "image": "1IaoFrkHXpMamn6B7OQs",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Broome St",
+        "state": "NY"
+    },
+    {
+        "type": "Parks & Gardens",
+        "zipcode": "10022",
+        "id": "lqZinj6512n68N2ybK0t",
+        "l": [
+            40.7562577,
+            -73.9692723
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Greenacre Park",
+        "g": "dr5rug3nrj",
+        "coordinates": {
+            "latitude": 40.7562577,
+            "longitude": -73.9692723
+        },
+        "image": "RSySLziDTj8jdBSpNV6J",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "217 E 51st St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10007",
+        "id": "m94lh4VFbXSyK6vXVkos",
+        "l": [
+            40.71493707197759,
+            -74.00923979816271
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The Mysterious Bookshop",
+        "g": "dr5regujew",
+        "coordinates": {
+            "latitude": 40.71493707197759,
+            "longitude": -74.00923979816271
+        },
+        "image": "CYyX73o1x6uvEnSOoKC7",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "58 Warren St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "",
+        "id": "nH3PvNXd4jJ2XHwDjnJX",
+        "l": [
+            40.7336512,
+            -74.0027451
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "West Village",
+        "g": "dr5rsp2fen",
+        "coordinates": {
+            "latitude": 40.7336512,
+            "longitude": -74.0027451
+        },
+        "image": "iEIoLyHRKhLKgHE20wcF",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "West Village",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "",
+        "id": "oIne4lcykpNGLivvtFuT",
+        "l": [
+            40.7182569,
+            -74.0070461
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Tribeca",
+        "g": "dr5reut9nc",
+        "coordinates": {
+            "latitude": 40.7182569,
+            "longitude": -74.0070461
+        },
+        "image": "g9Fezc0glPyKwmMjQmlU",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": "Tribeca",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10013",
+        "id": "p6LlZsPfEKS4AQQOKH4a",
+        "l": [
+            40.7194898,
+            -74.0058844
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "2 White St",
+        "g": "dr5reuy81z",
+        "coordinates": {
+            "latitude": 40.7194898,
+            "longitude": -74.0058844
+        },
+        "image": "iGpKY6AzFQgKROlVGnVp",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "2 White St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10014",
+        "id": "pbtR7w1jw5KOTM47OTZt",
+        "l": [
+            40.73238895908343,
+            -74.00530636310577
+        ],
+        "city": "New York",
+        "likes": 3,
+        "name": "Friends Apartment",
+        "g": "dr5rezngr7",
+        "coordinates": {
+            "latitude": 40.73238895908343,
+            "longitude": -74.00530636310577
+        },
+        "image": "5JWY5NLfzJGV5G6jGDPl",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "90 Bedford St",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10012",
+        "id": "qYPpcSndmPROzPtwjsAJ",
+        "l": [
+            40.723676,
+            -74.002045
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "OK Harris Gallery ",
+        "g": "dr5rsj92e7",
+        "coordinates": {
+            "latitude": 40.723676,
+            "longitude": -74.002045
+        },
+        "image": "C36OzjIWl4beZ6zAGe1e",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "383 W Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Historic Places",
+        "zipcode": "10005",
+        "id": "rhoLIDShClx0yNZVR7Tk",
+        "l": [
+            40.7042044,
+            -74.0082224
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "77 Water St",
+        "g": "dr5recuz5m",
+        "coordinates": {
+            "latitude": 40.7042044,
+            "longitude": -74.0082224
+        },
+        "image": "d6nyXOJ874BSK5LvpEN8",
+        "dislikes": 0,
+        "numOfFunFacts": 0,
+        "country": "US",
+        "address": "77 Water St",
+        "state": "NY"
+    },
+    {
+        "type": "Restaurants, Bars & Cafes",
+        "zipcode": "10006",
+        "id": "sVb3w0qDkv6rb7xQ96u1",
+        "l": [
+            40.7089421,
+            -74.0114735
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "Trinity Place",
+        "g": "dr5reff6z8",
+        "coordinates": {
+            "latitude": 40.7089421,
+            "longitude": -74.0114735
+        },
+        "image": "Yd361phhzjyW4GuQZ6dz",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "115 Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10012",
+        "id": "uEhMT1tCrRuajwZFiuV2",
+        "l": [
+            40.7257509,
+            -73.996572
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "Cable Building Owners Llc",
+        "g": "dr5rsjvkdy",
+        "coordinates": {
+            "latitude": 40.7257509,
+            "longitude": -73.996572
+        },
+        "image": "X3zbjasvIcDHBYlbUE2Q",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "611 Broadway",
+        "state": "NY"
+    },
+    {
+        "type": "Art & Culture",
+        "zipcode": "10040",
+        "id": "uip2KOrHGimJ23UkK6Wd",
+        "l": [
+            40.8648977,
+            -73.9317577
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "The Met Cloisters",
+        "g": "dr72mxhx31",
+        "coordinates": {
+            "latitude": 40.8648977,
+            "longitude": -73.9317577
+        },
+        "image": "nsPYLQO9Jx2DeXhup0cy",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "99 Margaret Corbin Dr",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "vPZlN2RZav5NmgQLYD3u",
+        "l": [
+            40.7203335,
+            -74.0045686
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Lispenard St",
+        "g": "dr5reuzt0s",
+        "coordinates": {
+            "latitude": 40.7203335,
+            "longitude": -74.0045686
+        },
+        "image": "gxmaZ9FhlmOqrCddq0R2",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Lispenard St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "11365",
+        "id": "w0h5pNzbnI88AraaWoQk",
+        "l": [
+            40.742291,
+            -73.810122
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Kissena Velodrome",
+        "g": "dr5xb2vj59",
+        "coordinates": {
+            "latitude": 40.742291,
+            "longitude": -73.810122
+        },
+        "image": "4jEUApAwDDwcIPSYLgVF",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": " Parsons Blvd",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10017",
+        "id": "wG986Ya2sIcXRvXDlPWV",
+        "l": [
+            40.74967910018039,
+            -73.96788954734802
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "United Nations",
+        "g": "dr5ruf60p4",
+        "coordinates": {
+            "latitude": 40.74967910018039,
+            "longitude": -73.96788954734802
+        },
+        "image": "ZMGX6UIr1nglZhKaT00o",
+        "dislikes": 0,
+        "numOfFunFacts": 2,
+        "country": "US",
+        "address": " 46th St & 1st Ave",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10036",
+        "id": "xmirGMD110DZrHMhWS1W",
+        "l": [
+            40.758896,
+            -73.98513
+        ],
+        "city": "New York",
+        "likes": 3,
+        "name": "Times Square",
+        "g": "dr5ru7vtv8",
+        "coordinates": {
+            "latitude": 40.758896,
+            "longitude": -73.98513
+        },
+        "image": "nPQK6VbZg4REkEGajtX9",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "200 W 47th St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10013",
+        "id": "y75YFMAJi3iBLXgRYhUG",
+        "l": [
+            40.718179,
+            -74.009538
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "Staple Street Skybridge ",
+        "g": "dr5reuebsf",
+        "coordinates": {
+            "latitude": 40.718179,
+            "longitude": -74.009538
+        },
+        "image": "pGKd7v6R4vmI1536EwXd",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "9 Jay St",
+        "state": "NY"
+    },
+    {
+        "type": "Landmark",
+        "zipcode": "10038",
+        "id": "yphopZrR3ss91O9b8l5A",
+        "l": [
+            40.7083895,
+            -74.0087277
+        ],
+        "city": "New York",
+        "likes": 0,
+        "name": "Federal Reserve Bank of New York",
+        "g": "dr5refsrx9",
+        "coordinates": {
+            "latitude": 40.7083895,
+            "longitude": -74.0087277
+        },
+        "image": "mvJ7WgpcDoshnoB044ZC",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "33 Liberty St",
+        "state": "NY"
+    },
+    {
+        "type": "Cool & Unique",
+        "zipcode": "10014",
+        "id": "z7hOpdiM6ekngSZJd2SX",
+        "l": [
+            40.7334861,
+            -74.0031022
+        ],
+        "city": "New York",
+        "likes": 1,
+        "name": "Hess' Triangle",
+        "g": "dr5rsp29f8",
+        "coordinates": {
+            "latitude": 40.7334861,
+            "longitude": -74.0031022
+        },
+        "image": "svE0xlZvD8JqngTLF4Go",
+        "dislikes": 0,
+        "numOfFunFacts": 1,
+        "country": "US",
+        "address": "110 7th Ave S",
+        "state": "NY"
+    }
+]

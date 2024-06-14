@@ -1,0 +1,143 @@
+[
+    {
+        "uid": "6Ff9aX4Y71QJLaT4PGZpFzjX2Hg1",
+        "dislikeCount": 0,
+        "provider": "google.com",
+        "city": "New York",
+        "submittedCount": -1,
+        "name": "dhwani shah",
+        "photoURL": "https://lh4.googleusercontent.com/-2OjRWGpfCEI/AAAAAAAAAAI/AAAAAAAACIA/AqyDKi9F1xw/photo.jpg",
+        "rejectedCount": -2,
+        "userName": "dshah167",
+        "roles": [
+            "General"
+        ],
+        "country": "United States",
+        "level": "Rookie",
+        "verifiedCount": 5,
+        "likeCount": 3,
+        "email": "dshah167@gmail.com",
+        "disputeCount": 0
+    },
+    {
+        "uid": "95cXLkkOfLYRq8dzY96JEV8V1Vj1",
+        "dislikeCount": 0,
+        "provider": "Firebase",
+        "city": "New York",
+        "submittedCount": 1,
+        "name": "John Doe",
+        "photoURL": "https://firebasestorage.googleapis.com/v0/b/funfacts-5b1a9.appspot.com/o/profileImages%2F95cXLkkOfLYRq8dzY96JEV8V1Vj1.jpeg?alt=media&token=03e68942-fd38-4fdb-8676-765380320844",
+        "rejectedCount": 1,
+        "userName": "johndoe ",
+        "roles": [
+            "General"
+        ],
+        "country": "United States",
+        "level": "Rookie",
+        "verifiedCount": 13,
+        "likeCount": 5,
+        "email": "funfactsny@yahoo.com",
+        "disputeCount": 0
+    },
+    {
+        "uid": "FcNWlaWhjkUeP9n7G0rySo1OacG2",
+        "dislikeCount": 0,
+        "provider": "Firebase",
+        "city": "",
+        "submittedCount": 0,
+        "name": "FunFact Test",
+        "photoURL": "",
+        "rejectedCount": 0,
+        "userName": "user2175432374",
+        "roles": [
+            "General"
+        ],
+        "country": "",
+        "level": "Rookie",
+        "verifiedCount": 0,
+        "likeCount": 0,
+        "email": "funfacttest1@gmail.com",
+        "disputeCount": 0
+    },
+    {
+        "uid": "aSh5Z3KlHPd7hnOwfWtWomT5NF22",
+        "dislikeCount": 1,
+        "provider": "google.com",
+        "city": "New York",
+        "submittedCount": 132,
+        "name": "Rushi Dolas",
+        "photoURL": "https://firebasestorage.googleapis.com/v0/b/funfacts-5b1a9.appspot.com/o/profileImages%2FaSh5Z3KlHPd7hnOwfWtWomT5NF22.jpeg?alt=media&token=cb7d3ffb-e135-4662-8326-c061fe09d1c6",
+        "rejectedCount": 3,
+        "userName": "editor",
+        "roles": [
+            "Admin",
+            "Editor"
+        ],
+        "country": "United States",
+        "level": "Advanced",
+        "verifiedCount": 4,
+        "email": "rushidolas@gmail.com",
+        "likeCount": 28,
+        "disputeCount": 1
+    },
+    {
+        "uid": "adALEan5WaT9u4C7DmZ6yGpp3U92",
+        "dislikeCount": 0,
+        "provider": "google.com",
+        "city": "Nagpur",
+        "submittedCount": 0,
+        "name": "Nilima Dolas",
+        "photoURL": "https://lh3.googleusercontent.com/-uOut8FG5qZ8/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOcFz1mSEBYUG5Viab3UQH2c2ug6w/s96-c/photo.jpg",
+        "rejectedCount": 1,
+        "userName": "nilimadolas",
+        "roles": [
+            "General"
+        ],
+        "country": "India",
+        "level": "Rookie",
+        "verifiedCount": 0,
+        "likeCount": 0,
+        "email": "nilimadolas@gmail.com",
+        "disputeCount": 0
+    },
+    {
+        "uid": "os9kCUyhDcRNI2b56sdjREmlNfB3",
+        "dislikeCount": 0,
+        "provider": "Firebase",
+        "city": "Buenos Aires",
+        "submittedCount": 0,
+        "name": "FunFact Test",
+        "photoURL": "https://firebasestorage.googleapis.com/v0/b/funfacts-5b1a9.appspot.com/o/profileImages%2Fos9kCUyhDcRNI2b56sdjREmlNfB3.jpeg?alt=media&token=b3fbcdeb-ea0f-450c-8ac7-4e84f363b9ef",
+        "rejectedCount": 2,
+        "userName": "user3636705972",
+        "roles": [
+            "General"
+        ],
+        "country": "Argentina",
+        "level": "Rookie",
+        "verifiedCount": 1,
+        "likeCount": 0,
+        "email": "funfacttest@gmail.com",
+        "disputeCount": 0
+    },
+    {
+        "uid": "zd0WxfZiGaS6ScAdgKQLvhVgC3Q2",
+        "dislikeCount": 0,
+        "provider": "facebook.com",
+        "city": "Harare",
+        "submittedCount": 1,
+        "name": "James Albhjaiahbdih Adeagbosen",
+        "photoURL": "https://graph.facebook.com/123146218629350/picture",
+        "rejectedCount": 1,
+        "userName": "adnevsgkcw",
+        "roles": [
+            "General"
+        ],
+        "country": "Zimbabwe",
+        "level": "Rookie",
+        "verifiedCount": 3,
+        "likeCount": 0,
+        "email": "adnevsgkcw_1535124135@tfbnw.net",
+        "disputeCount": 0
+    }
+]
