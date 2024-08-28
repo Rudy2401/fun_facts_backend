@@ -5,7 +5,9 @@ from aws_cdk import (
     Stack
 )
 from constructs import Construct
+import json
 
+google_client_secret = json.load(open("google_client_secret.json"))
 
 class AuthStack(Stack):
 
@@ -29,6 +31,19 @@ class AuthStack(Stack):
             account_recovery=cognito.AccountRecovery.EMAIL_ONLY
         )
 
+        # Add Google as an identity provider
+        google_provider = cognito.UserPoolIdentityProviderGoogle(
+            self, "Google",
+            user_pool=user_pool,
+            client_id=google_client_secret["web"]["client_id"],
+            client_secret=google_client_secret["web"]["client_secret"],
+            attribute_mapping=cognito.AttributeMapping(
+                email=cognito.ProviderAttribute.GOOGLE_EMAIL,
+                fullname=cognito.ProviderAttribute.GOOGLE_NAME,
+                profile_picture=cognito.ProviderAttribute.GOOGLE_PICTURE
+            )
+        )
+
         # Define the Cognito User Pool Client
         user_pool_client = user_pool.add_client(
             "UserPoolClient",
@@ -39,23 +54,31 @@ class AuthStack(Stack):
             ),
             generate_secret=False,
             o_auth=cognito.OAuthSettings(
-                callback_urls=["funfactapp://"],
-                logout_urls=["funfactapp://"],
+                callback_urls=["funfactapp://login/"],
+                logout_urls=["funfactapp://signout/"],
                 flows=cognito.OAuthFlows(
                     authorization_code_grant=True
                 ),
                 scopes=[cognito.OAuthScope.OPENID, cognito.OAuthScope.EMAIL, cognito.OAuthScope.PROFILE]
-            )
+            ),
+            supported_identity_providers=[
+                cognito.UserPoolClientIdentityProvider.GOOGLE,
+                cognito.UserPoolClientIdentityProvider.COGNITO
+            ]
         )
 
         # Define the Cognito Identity Pool
         identity_pool = cognito.CfnIdentityPool(
             self, "IdentityPool",
             allow_unauthenticated_identities=False,
-            cognito_identity_providers=[{
-                "clientId": user_pool_client.user_pool_client_id,
-                "providerName": user_pool.user_pool_provider_name
-            }]
+            cognito_identity_providers=[
+                cognito.CfnIdentityPool.CognitoIdentityProviderProperty(
+                    client_id=user_pool_client.user_pool_client_id,
+                    provider_name=user_pool.user_pool_provider_name
+                )],
+            supported_login_providers={
+                "accounts.google.com": google_client_secret["web"]["client_id"]
+            }
         )
 
         # Define roles for authenticated and unauthenticated users
